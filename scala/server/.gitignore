@@ -1,0 +1,7 @@
+.idea/
+.bsp/
+
+project/target/
+target/
+
+src/main/resources/web/
